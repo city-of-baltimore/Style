@@ -1,3 +1,4 @@
+#must be used with Plotly's Graph Objects (not Plotly Express)
 import plotly.graph_objects as go
 import plotly.io as pio
 
